@@ -8,7 +8,7 @@ We are going to practice using git in teams. Use Git Bash or Tortoise Git.
 
 ### II.Check your team and Choose Team Leader.
 
-Goto [https://js-teamwork.github.io/](https://js-teamwork.github.io/) and sign-inwith your username, to see your teammates. Try connecting them /Facebook, email/; 
+Go to [https://js-teamwork.github.io/](https://js-teamwork.github.io/) and sign-in with your username, to see your teammates. Try connecting them /Facebook, email/; 
 
 When you manage to connect, choose a Team Leader. Remember, that the Team Leader is responsible for the failures and successes of the whole team. Choose wisely. 
 
@@ -16,15 +16,15 @@ When you manage to connect, choose a Team Leader. Remember, that the Team Leader
 
 The Team Lead should create an organization, you can call your Organization whatever you want, choose your Team Name wisely. This organization will represent your teamwork skills and your responsibility and serious attitude.
 
-1. Team Leader responsibilities: 
-- 1. Create the Organization and Invite all the members to join. 
-- 2. Create the Repository and add folder structure.
+#### Team Leader responsibilities: 
+- Create the Organization and Invite all the members to join. 
+- Create the Repository and add folder structure.
 
-2. Members responsibilities:  
+#### Members responsibilities:  
 
 **Each Member**, including the Team Leader should clone the repository and:
 
-1. Add a solution for a problem from the exercise: 
+##### Add a solution for a problem from the exercise: 
 
 Member
 1 /Team Lead/ adds solution for Problem 1 /already added/;
@@ -41,7 +41,7 @@ Member
 Member
 5 adds solution for Problem 5;
 
-2. Document the code of the NEXT Problem: 
+##### Document the code of the NEXT Problem: 
 
 Member
 1 documents the code of Solution of Problem 2;
@@ -58,7 +58,7 @@ Member
 Member
 5 documents the code of Solution of Problem 1;
 
-3. Add description in README.md for the NEXT problem: 
+##### Add description in README.md for the NEXT problem: 
 
 - Member 1 adds description of Problem 3; 
 - Member 2 adds description of Problem 4; 
@@ -70,14 +70,14 @@ You can use [text-to-markdown-converter](http://markitdown.medusis.com/)
 
 You can learn more about Markdown language [here](https://en.wikipedia.org/wiki/Markdown).
 
-4. Change a variable name in the NEXT Problem:  
+##### Change a variable name in the NEXT Problem:  
 
 - Member 1 changes variable name in Problem 4; 
 - Member 2 changes variable name in Problem 5; 
 - Member 3 changes variable name in Problem 1; 
 - Etc. 
 
-5. Check the solution of NEXT Problem. 
+##### Check the solution of NEXT Problem. 
 
 - Member 1 checks Problem 5; 
 - Member 2 checks Problem 1; 
