@@ -60,11 +60,20 @@ Member
 
 **Add description in README.md for the NEXT problem:**
 
-Member 1 adds description of Problem 3; 
-Member 2 adds description of Problem 4; 
-Member 3 adds description of Problem 5; 
-Member 4 adds description of Problem 1; 
-Member 5 adds description of Problem 2; 
+Member
+1 adds description of Problem 3;
+
+Member
+2 adds description of Problem 4;
+
+Member
+3 adds description of Problem 5;
+
+Member
+4 adds description of Problem 1;
+
+Member
+5 adds description of Problem 2;
 
 You can use [text-to-markdown-converter](http://markitdown.medusis.com/)
 
@@ -72,16 +81,27 @@ You can learn more about Markdown language [here](https://en.wikipedia.org/wiki/
 
 **Change a variable name in the NEXT Problem:**
 
-Member 1 changes variable name in Problem 4; 
-Member 2 changes variable name in Problem 5; 
-Member 3 changes variable name in Problem 1; 
+Member
+1 changes variable name in Problem 4; 
+
+Member
+2 changes variable name in Problem 5; 
+
+Member
+3 changes variable name in Problem 1; 
+
 Etc. 
 
 **Check the solution of NEXT Problem.**
 
-Member 1 checks Problem 5; 
-Member 2 checks Problem 1; 
-Member 3 checks Problem 2; 
+Member
+1 checks Problem 5; 
+
+Member2 checks Problem 1; 
+
+Member
+3 checks Problem 2; 
+
 Etc. 
 
 ###### If there is a Problem with the code /wrong answer or spaghetti code :D/ Create new Issue in the Repository and Explain the problem for the member, who created the code. 
