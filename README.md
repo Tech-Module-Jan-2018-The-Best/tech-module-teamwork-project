@@ -24,7 +24,7 @@ The Team Lead should create an organization, you can call your Organization what
 
 **Each Member**, including the Team Leader should clone the repository and:
 
-**Add a solution for a problem from the exercise:**
+- **Add a solution for a problem from the exercise:**
 
 Member
 1 /Team Lead/ adds solution for Problem 1 /already added/;
@@ -41,7 +41,7 @@ Member
 Member
 5 adds solution for Problem 5;
 
-**Document the code of the NEXT Problem:**
+- **Document the code of the NEXT Problem:**
 
 Member
 1 documents the code of Solution of Problem 2;
@@ -58,7 +58,7 @@ Member
 Member
 5 documents the code of Solution of Problem 1;
 
-**Add description in README.md for the NEXT problem:**
+- **Add description in README.md for the NEXT problem:**
 
 Member
 1 adds description of Problem 3;
@@ -79,7 +79,7 @@ You can use [text-to-markdown-converter](http://markitdown.medusis.com/)
 
 You can learn more about Markdown language [here](https://en.wikipedia.org/wiki/Markdown).
 
-**Change a variable name in the NEXT Problem:**
+- **Change a variable name in the NEXT Problem:**
 
 Member
 1 changes variable name in Problem 4; 
@@ -92,7 +92,7 @@ Member
 
 Etc. 
 
-**Check the solution of NEXT Problem.**
+- **Check the solution of NEXT Problem.**
 
 Member
 1 checks Problem 5; 
