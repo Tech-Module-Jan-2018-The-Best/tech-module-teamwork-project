@@ -1,7 +1,8 @@
 # SoftUni - TechModule - Teamwork project
 ## Exercises: Git and GitHub - Teamwork
-##// TODO add description to problem 1
-##// TODO add description to problem 2
+
+## //TODO add description to problem 1
+## //TODO add description to problem 2
 
 
 ## Problem 3. 
@@ -13,7 +14,7 @@ decimal place**.
 
 Note: **1 mile == 1.60934 kilometers**
 
-#### Examples
+### Examples
 
 **Input**
  60
@@ -34,7 +35,7 @@ Note: **1 mile == 1.60934 kilometers**
  83.86
 
 
-### Problem 4.              
+## Problem 4.              
 Beverage Labels
 
 Write a program, which reads a food product **name**, **volume**, **energy content****per 100ml** and **sugar content per 100ml**. Calculate the **energy** and **sugar content**
@@ -50,7 +51,7 @@ Energy content – **integer**, **suffixed** by “**kcal**” (e.g. “**500kca
      
 Sugar content – **integer**, **suffixed** by “**g**” (e.g. “**30g**”) 
 
-#### Examples
+### Examples
 
 **Input**
 
@@ -102,4 +103,4 @@ Sugar content – **integer**, **suffixed** by “**g**” (e.g. “**30g**”)
 2100kcal, 490g sugars
 
 
-#// TODO add description to problem 5
+## //TODO add description to problem 5
