@@ -8,14 +8,14 @@ namespace Problem_02._Rectangle_Area
         {
 			// Create a variable "width" from double data type.
 			// Parsing the input to double and save it to width.
-            double width = double.Parse(Console.ReadLine());
-			
-			// Create a variable "height" from double data type.
-			// Parsing the input to double and save it to height.
-            double height = double.Parse(Console.ReadLine());
+            double widthOfRectangle = double.Parse(Console.ReadLine()); //variable name changed from "width" to "widthOfRectangle"
 
-			// Create a variable "area" from double data type, which will save the result.
-            double area = width * height;
+            // Create a variable "height" from double data type.
+            // Parsing the input to double and save it to height.
+            double heightOfRectangle = double.Parse(Console.ReadLine()); //variable name changed from "height" to "heightOfRectangle"
+
+            // Create a variable "area" from double data type, which will save the result.
+            double area = widthOfRectangle * heightOfRectangle;
 
 			// Print the area to the console.
             Console.WriteLine($"{area:f2}");
