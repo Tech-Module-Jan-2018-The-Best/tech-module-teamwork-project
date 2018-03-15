@@ -147,8 +147,8 @@ Sugar content – **integer**, **suffixed** by “**g**” (e.g. “**30g**”)
 2100kcal, 490g sugars
 
 
-### Problem 5.                
-* Character Stats
+## Problem 5.                
+ Character Stats
 
 Write a program, which **displays information** about a video game character. You will receive
 their **name**, **current health**, **maximum
@@ -158,25 +158,10 @@ health**, **current energy** and **maximum energy **on separate lines. The **cur
 
  
 
-**Input**
 
- 
-
-**Output**
-
- 
-
-** **
-
- 
 
 **Input**
 
- 
-
-**Output**
-
- 
 
 Mayro
 
@@ -187,16 +172,20 @@ Mayro
 9
 
 10
-
  
 
-Name: Mayro
+**Output**
+
+ 
+ Name: Mayro
 
 Health: ||||||.....|
 
 Energy: ||||||||||.|
 
- 
+
+**Input**
+
 
 Bauser
 
@@ -208,6 +197,8 @@ Bauser
 
 10
 
+
+**Output**
  
 
 Name: Bauser
@@ -216,30 +207,10 @@ Health: ||||||||||||
 
 Energy: ||||||||||||
 
- 
-
- 
 
 **Input**
 
  
-
-**Output**
-
- 
-
-** **
-
- 
-
-**Input**
-
- 
-
-**Output**
-
- 
-
 Loogi
 
 8
@@ -250,17 +221,20 @@ Loogi
 
 14
 
- 
 
+**Output**
+
+ 
 Name: Loogi
 
 Health: |||||||||............|
 
-Energy:
-  |||............|
+Energy: |||............|
 
  
+**Input**
 
+ 
 Toad
 
 0
@@ -271,6 +245,8 @@ Toad
 
 10
 
+
+**Output**
  
 
 Name: Toad
@@ -278,6 +254,7 @@ Name: Toad
 Health: |.....|
 
 Energy: |..........|
+
 
 #### Hints
 
