@@ -7,7 +7,7 @@ namespace _05.Character_Stats
     {
         static void Main(string[] args)
         {
-            string name = Console.ReadLine();
+            string nameOfCharacter = Console.ReadLine();
             // Here We read four input lines from the console  and convert it to Integer data type by the "Parse" Method
             int currentHealth = int.Parse(Console.ReadLine());
             int maxHealth = int.Parse(Console.ReadLine());
@@ -29,7 +29,7 @@ namespace _05.Character_Stats
             string energyDots = new string('.', numberOfEnergyDots);
 
             // Here We print the output to the console by using String Interpolation
-            Console.WriteLine($"Name: {name}");
+            Console.WriteLine($"Name: {nameOfCharacter}");
             Console.WriteLine($"Health: |{healthDashes}{healthDots}|");
             Console.WriteLine($"Energy: |{energyDashes}{energyDots}|");
         }
