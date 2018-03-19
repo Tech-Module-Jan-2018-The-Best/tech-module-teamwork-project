@@ -1,4 +1,6 @@
-﻿using System;
+//Confirmed by yoanaangelova
+
+using System;
 
 namespace _04._Beverage_Labels
 {
@@ -19,14 +21,14 @@ namespace _04._Beverage_Labels
             int productSugar = int.Parse(Console.ReadLine()); // Old variable name was "sugar".
 
 			//On the next two lines we calculate the energy and the sugar content of the product
-            double neededEnergyProduct = (double)energy * volume / 100; // Old variable name was "energy_need".
-            double neededSugarProduct = (double)sugar * volume / 100; // Olv variable name was "sugar_need".
+            double neededEnergyProduct = (double)productEnergy * productVolume / 100; // Old variable name was "energy_need".
+            double neededSugarProduct = (double)productSugar * productVolume / 100; // Olv variable name was "sugar_need".
 
 			//Here we print the product's name and volume
-            Console.WriteLine("{0}ml {1}:", volume, name);
+            Console.WriteLine("{0}ml {1}:", productVolume, productName);
 			
 			//Here we print the energy and sugar content of the product
-            Console.WriteLine("{0}kcal, {1}g sugars", energy_need, sugar_need);
+            Console.WriteLine("{0}kcal, {1}g sugars", neededEnergyProduct, neededSugarProduct);
         }
     }
 }
